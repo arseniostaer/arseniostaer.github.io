@@ -84,8 +84,8 @@ author:
   avatar           : "DSC01781_wh_sh_smiling_tr_1_300x300.jpg"
   bio              : "Assistant Professor Of Finance"
   location         : "Fullerton, CA, USA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Mihaylo College of Business and Economics, California State University at Fullerton"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -106,6 +106,7 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
+  ssrn             : "http://ssrn.com"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
