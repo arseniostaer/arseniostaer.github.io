@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2014-spring-teaching-1
 venue: "CSU Fullerton, Finance"
-date: 2013-2019
+date: 2013-09-01
 location: "Fullerton, CA USA"
 ---
 
