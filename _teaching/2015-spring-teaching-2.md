@@ -5,6 +5,7 @@ type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "CSU Fullerton, Finance"
 date: 2016-09-01
+date1: 2019-09-01
 location: "Fullerton, CA"
 ---
 
