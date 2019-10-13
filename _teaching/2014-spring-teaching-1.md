@@ -1,10 +1,10 @@
 ---
 title: "FIN340 - Intro to Investments"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "CSU Fullerton, Finance"
+date: 2013-2019
 location: "Fullerton, CA USA"
 ---
 

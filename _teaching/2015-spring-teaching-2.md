@@ -1,11 +1,11 @@
 ---
-<!-- title: "Teaching experience 2"
+title: "FIN320 - Financial Management"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "CSU Fullerton, Finance"
+date: 2016-2019
+location: "Fullerton, CA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
@@ -17,4 +17,4 @@ Heading 2
 ======
 
 Heading 3
-====== -->
+======
